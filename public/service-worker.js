@@ -1,0 +1,1 @@
+console.log("Your service worker is watching you, judging you")
