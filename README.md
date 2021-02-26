@@ -4,7 +4,7 @@ Progressive Budget is a budget tracking application. With this applicaiton the u
 
 # Deployed Link
 
-Progressive Budget(https://dashboard.heroku.com/apps/vast-spire-78413)
+Progressive Budget(https://vast-spire-78413.herokuapp.com/)
 
 ## Usage
 
